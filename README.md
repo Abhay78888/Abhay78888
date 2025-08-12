@@ -10,7 +10,7 @@
 </p>
 
 ## 🌟 About Me
-- 🎯 Currently mastering **Java and Web Technologies**
+- 🎯 Currently learning **Java and Web Technologies**
 - 💡 Second year student at  GLA University , Mathura
 - ☕ Fuel: *Chai + Music + Late Nights*
 - 📬 Email: **abhaybhadauria8999@gmail.com**

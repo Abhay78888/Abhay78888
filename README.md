@@ -1,6 +1,23 @@
-<h2 align="left">Hi 👋! My name is Abhay Pratap singh<br> and I'm a beginner software developer,<br>from agra</h2>
+<!-- Profile Banner -->
+
+<!-- Greeting -->
+<h1 align="center">Hey there, I'm Abhay Pratap Singh 👋</h1>
+<h3 align="center">🚀 Beginner Software Developer | 🌍 Based in Agra, India</h3>
+
+<!-- Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Java+%7C+Python+%7C+Web+Dev;Code.+Learn.+Repeat.;Turning+Ideas+Into+Reality" />
+</p>
+
+## 🌟 About Me
+- 🎯 Currently mastering **Java and Web Technologies**
+- 💡 studying at GLA University , Mathura
+- ☕ Fuel: *Chai + Music + Late Nights*
+- 📬 Email: **abhaybhadauria8999@gmail.com**
+
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />

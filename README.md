@@ -1,63 +1,16 @@
-<!-- Profile Banner -->
+<h1 align="center">⚡ Abhay Pratap Singh⚡</h1>
+<h3 align="center">🚀 Software Developer | Java • DSA • Backend Development</h3>
 
-<!-- Greeting -->
-<h1 align="center">Hey there, I'm Abhay Pratap Singh 👋</h1>
-<h3 align="center">🚀 Beginner Software Developer | 🌍 Based in Agra, India</h3>
-
-<!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Java+%7C+Python+%7C+Web+Dev;Code.+Learn.+Repeat.;Turning+Ideas+Into+Reality" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:00F7FF&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-## 🌟 About Me
-- 🎯 Currently learning **Java and Web Technologies**
-- 💡 Second year student at  GLA University , Mathura
-- ☕ Fuel: *Chai + Music + Late Nights*
-- 📬 Email: **abhaybhadauria8999@gmail.com**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3200&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+%7C+Node.js+%7C+Express+%7C+MongoDB;Backend+Developer+🚀;Designing+APIs+%26+Systems;Turning+Ideas+Into+Reality" />
+</p>
 
+---
 
-###
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-###
-
-<img align="right" height="155" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhay78888&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhay78888&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/abhay__bhadauria_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="abhaybhadauria8999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/abhay-pratap-singh-3b0081338/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table>
+<tr>
+<td width="30%" valign="top">
